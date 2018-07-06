@@ -1,1 +1,1 @@
-console.log('wow 1');
+import './app/index.js';
