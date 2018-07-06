@@ -1,2 +1,2 @@
 // main point for the project
-import './app/index.js';
+require('./app/index.js');
